@@ -37,6 +37,9 @@ if ( !is_main_site() ) {
 	die();
 }
 
+
+// dit is een wijziging
+
 // Fix for page title
 $wp_query->is_404 = false;
 
