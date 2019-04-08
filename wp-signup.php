@@ -36,7 +36,7 @@ if ( !is_main_site() ) {
 	wp_redirect( network_site_url( 'wp-signup.php' ) );
 	die();
 }
-
+// hier maak ik nog een extra wijziging
 
 // dit is een wijziging
 
